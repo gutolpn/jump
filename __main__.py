@@ -1,3 +1,4 @@
+#programa
 import os
 import WConio2 as WConio2
 import cursor
