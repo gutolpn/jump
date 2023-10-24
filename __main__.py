@@ -3,7 +3,7 @@
  Data: 24-10-2023
 
 '''
-
+#Comentário do Pitty
 import os
 import WConio2 as WConio2
 import cursor
