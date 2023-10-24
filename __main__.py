@@ -2,6 +2,7 @@
  Programa de exemplo de aula
  Data: 24-10-2023
 
+ @author: eu
 '''
 
 import os
