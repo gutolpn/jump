@@ -13,7 +13,7 @@ cursor.hide()
 os.system('cls')
 
 #herói do jogo
-heroi = '#'
+heroi = '&'
 heroiX = 20
 heroiY = 4
 
